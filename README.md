@@ -6,3 +6,4 @@ This line was added remotely
 Test line 1
 Test line 2
 test line 3
+Quick fix line
