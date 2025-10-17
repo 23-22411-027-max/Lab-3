@@ -6,3 +6,5 @@ This line was added remotely
 
 Thi is a test line 1
 This is a test line 2
+temporary line 1
+temporary line 2
